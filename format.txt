@@ -8,3 +8,4 @@
       "type": "V N ADJ PRON INJECT ETC"
       "translation":"english translation"
       }
+    */
